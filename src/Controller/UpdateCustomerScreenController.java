@@ -1,5 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -31,7 +30,7 @@ import javafx.scene.input.KeyEvent;
 /**
  * Controls logic for updating customer
  *
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class UpdateCustomerScreenController extends GeneralController implements Initializable {
 
