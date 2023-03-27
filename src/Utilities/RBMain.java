@@ -10,9 +10,8 @@ import java.util.ResourceBundle;
 
 /**
  * Resource Bundle
- * Supports English and Spanish
  * Defaults to English
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class RBMain {
     
