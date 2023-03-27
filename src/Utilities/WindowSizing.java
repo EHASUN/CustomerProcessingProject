@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class WindowSizing {
     
