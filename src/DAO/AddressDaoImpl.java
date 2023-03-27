@@ -15,7 +15,7 @@ import java.sql.SQLException;
 
 /**
  * 
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class AddressDaoImpl extends GeneralDaoImpl {    
     
