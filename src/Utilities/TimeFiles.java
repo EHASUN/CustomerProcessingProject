@@ -17,7 +17,7 @@ import javafx.collections.ObservableList;
 
 /**
  * Commonly used functions for creating, adjusting, and formatting LocalDateTimes for both application and database use
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class TimeFiles {
     
