@@ -26,7 +26,7 @@ import javafx.scene.input.KeyEvent;
 /**
  * Controls screen for adding customers
  *
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class AddCustomerScreenController extends GeneralController {
 
