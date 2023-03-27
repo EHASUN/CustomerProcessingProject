@@ -19,7 +19,7 @@ import java.util.logging.SimpleFormatter;
 
 /**
  * Sets up Error Log and User Log
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class LogFiles {
     
