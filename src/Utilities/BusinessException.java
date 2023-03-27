@@ -7,7 +7,7 @@ package Utilities;
 
 /**
  *
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class BusinessException extends Exception {
     
