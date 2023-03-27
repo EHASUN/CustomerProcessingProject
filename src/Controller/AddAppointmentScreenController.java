@@ -37,7 +37,7 @@ import javafx.scene.input.KeyEvent;
 /**
  * Controls screen for adding new appointments
  *
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class AddAppointmentScreenController extends GeneralController implements Initializable {
     
