@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author Austin Wong
+ * @author Mohasin Miah
  */
 public class Report {
     
